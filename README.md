@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on flutter app...
 
-🌱 I’m currently learning web 3.0 & blockchain...
 <!-- 
 👯 I’m looking to collaborate on ... -->
 👨‍💻 All of my projects are available at https://github.com/pankajkcodes?tab=repositories
